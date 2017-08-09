@@ -1,0 +1,81 @@
+2017-08-09 09:21:50,761 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 4460 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 09:21:50,767 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 09:21:50,767 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 15:35:56,206 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 5860 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 15:35:56,209 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 15:35:56,211 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 15:36:01,692 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMySqlApplication in 6.046 seconds (JVM running for 6.578)
+2017-08-09 15:41:34,108 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 9960 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 15:41:34,111 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 15:41:34,111 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 15:43:46,257 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 5704 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 15:43:46,260 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 15:43:46,260 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 15:44:48,412 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 2052 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 15:44:48,415 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 15:44:48,415 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:08:47,145 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 11508 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 16:08:47,147 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 16:08:47,148 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:08:53,521 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMySqlApplication in 6.671 seconds (JVM running for 7.14)
+2017-08-09 16:10:46,057 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 11840 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 16:10:46,060 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 16:10:46,060 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:14:08,598 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 11936 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 16:14:08,600 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 16:14:08,600 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:14:13,620 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMySqlApplication in 5.312 seconds (JVM running for 5.79)
+2017-08-09 16:27:37,832 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 8068 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 16:27:37,834 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 16:27:37,834 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:28:31,731 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 11592 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 16:28:31,733 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 16:28:31,734 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:28:36,855 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMySqlApplication in 5.407 seconds (JVM running for 6.058)
+2017-08-09 16:32:49,560 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 11176 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 16:32:49,562 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 16:32:49,563 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:38:57,589 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 10524 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 16:38:57,591 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 16:38:57,592 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:40:09,629 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 4592 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 16:40:09,631 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 16:40:09,631 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:40:14,858 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMySqlApplication in 5.513 seconds (JVM running for 6.031)
+2017-08-09 16:42:49,980 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 12000 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 16:42:49,982 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 16:42:49,983 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:46:47,018 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 520 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 16:46:47,021 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 16:46:47,021 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:46:53,359 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMySqlApplication in 6.725 seconds (JVM running for 7.28)
+2017-08-09 16:46:59,333 DEBUG (DataController.java:28)- save 开始
+2017-08-09 16:48:44,335 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 7792 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 16:48:44,338 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 16:48:44,339 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:48:50,544 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMySqlApplication in 6.522 seconds (JVM running for 7.073)
+2017-08-09 16:48:56,988 DEBUG (DataController.java:28)- save 开始
+2017-08-09 16:50:20,084 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 7292 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 16:50:20,086 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 16:50:20,086 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:50:25,651 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMySqlApplication in 5.847 seconds (JVM running for 6.327)
+2017-08-09 16:50:41,327 DEBUG (DataController.java:28)- save 开始
+2017-08-09 16:52:14,187 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 7268 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 16:52:14,190 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 16:52:14,190 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:53:19,238 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 12092 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 16:53:19,240 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 16:53:19,241 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:53:24,812 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMySqlApplication in 5.876 seconds (JVM running for 6.398)
+2017-08-09 16:53:31,901 DEBUG (DataController.java:28)- save 开始
+2017-08-09 16:53:32,049 DEBUG (DataController.java:30)- save 结束
+2017-08-09 16:54:34,387 DEBUG (DataController.java:28)- save 开始
+2017-08-09 16:54:34,404 DEBUG (DataController.java:30)- save 结束
+2017-08-09 16:54:48,958 DEBUG (DataController.java:36)- q1 开始
+2017-08-09 16:54:48,959 DEBUG (DataController.java:37)- q1 接收参数address=Beijing
+2017-08-09 16:56:47,698 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 8924 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-09 16:56:47,700 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-09 16:56:47,700 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-09 16:56:53,623 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMySqlApplication in 6.229 seconds (JVM running for 6.755)
+2017-08-09 16:57:10,248 DEBUG (DataController.java:28)- save Start
+2017-08-09 16:57:10,348 DEBUG (DataController.java:30)- save End

@@ -1,0 +1,3 @@
+2017-08-08 16:58:00,040 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on LIANGTL2-0LD2P7 with PID 1980 (started by liangtl2 in D:\Programming Related\Workspaces\SpringBoot\spring-boot-sample-MySQL)
+2017-08-08 16:58:00,043 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-08 16:58:00,043 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
